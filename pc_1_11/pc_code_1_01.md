@@ -1,3 +1,4 @@
+```
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
@@ -394,3 +395,4 @@ void finish() {
 		printf("引き分け\n");
 	}
 }
+```
